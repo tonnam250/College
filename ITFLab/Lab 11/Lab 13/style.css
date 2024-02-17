@@ -1,0 +1,28 @@
+body
+{
+    background-color: burlywood;
+    font-family: sans-serif;
+}
+
+.profile
+{
+    display: block;
+    text-align: center;
+}
+
+.profile img
+{
+    
+    width: 30%;
+    height: 30%;
+}
+.profile p
+{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.profile a
+{
+    font-size: x-large;
+}
